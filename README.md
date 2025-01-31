@@ -1,4 +1,5 @@
 # **Retail Store Retention Analysis**
+![Image](https://github.com/user-attachments/assets/16b8f78b-7389-41cc-b114-09b55ca32195)
 
 ## **Overview**
 This project focuses on analyzing **customer retention trends** in a retail store environment, identifying key factors that influence repeat purchases and long-term loyalty. By evaluating customer demographics, purchase frequency, product preferences, pricing impact, and promotional effectiveness, businesses can develop strategies to enhance retention and improve **Customer Lifetime Value (CLV)**.
